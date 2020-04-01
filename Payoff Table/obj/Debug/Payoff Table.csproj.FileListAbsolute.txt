@@ -1,0 +1,7 @@
+F:\Visual\Payoff Table\Payoff Table\bin\Debug\Payoff Table.exe.config
+F:\Visual\Payoff Table\Payoff Table\bin\Debug\Payoff Table.exe
+F:\Visual\Payoff Table\Payoff Table\bin\Debug\Payoff Table.pdb
+F:\Visual\Payoff Table\Payoff Table\obj\Debug\Payoff Table.csprojAssemblyReference.cache
+F:\Visual\Payoff Table\Payoff Table\obj\Debug\Payoff Table.csproj.CoreCompileInputs.cache
+F:\Visual\Payoff Table\Payoff Table\obj\Debug\Payoff Table.exe
+F:\Visual\Payoff Table\Payoff Table\obj\Debug\Payoff Table.pdb
